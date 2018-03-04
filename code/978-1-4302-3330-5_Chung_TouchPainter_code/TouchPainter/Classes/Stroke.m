@@ -34,7 +34,7 @@
   // return the location of the first child
   if ([children_ count] > 0)
   {
-    return [[children_ objectAtIndex:0] location];
+    return [[[children_ objectAtIndex:0] performSelector:@selector(location)] CGPointValue];
   }
   
   // otherwise returns the origin
