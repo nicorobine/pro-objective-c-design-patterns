@@ -6,6 +6,10 @@
 //  Copyright 2010 Carlo Chung. All rights reserved.
 //
 
+/**
+ *  这个视图控制器是用来花图的
+ */
+
 #import <UIKit/UIKit.h>
 #import "Scribble.h"
 #import "CanvasView.h"

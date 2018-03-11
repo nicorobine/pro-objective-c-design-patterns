@@ -6,6 +6,11 @@
 //  Copyright 2010 Carlo Chung. All rights reserved.
 //
 
+
+/**
+ * 调色板视图
+ */
+
 #import <UIKit/UIKit.h>
 #import "CommandBarButton.h"
 #import "CommandSlider.h"
